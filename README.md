@@ -14,14 +14,14 @@ Testing ground and running engine for Ocean.
 > This acts as a testing ground for the actual game - Ocean.
 
 1. Pull this repository.
-2. Do NOT open the UE4 project solution file OR the Visual Studio solution file.
+2. Do NOT open the UE4 project solution file OR the Visual Studio solution file yet.
 
 #### The [Ocean]
 
 > This is the actual game source code, assets, configuration and data.
 
 3. Go over here - https://github.com/therealsocialproject/Ocean2.0 - and pull the repository. SEPARATELY from this one.
-4. Keep both repositories anywhere you like, as long as they're beside each other, but NOT inside.
+4. Keep both repositories anywhere you like, as long as they're beside each other, but NOT inside each other.
 
 #### Workflow
 
