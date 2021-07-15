@@ -31,6 +31,7 @@ Testing ground and running engine for Ocean.
 
 5. The Ocean contains a script called "unreal-engine-deploy.sh".
 6. Execute it. You may now open the UE4 project solution.
-7. Everytime you make changes, keep respective projects in sync.
+7. Build the project.
+8. Everytime you make changes, keep respective projects in sync.
   * If you introduced changes in the actual UE4 solution, make sure you copy them back to [Ocean] and push them to the correct repository.
   * The [Carcass] is set up to ignore assets as it should.
