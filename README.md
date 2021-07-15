@@ -9,6 +9,8 @@ Testing ground and running engine for Ocean.
 
 ## Developer Setup Instructions
 
+> > You either follow the instructions here OR the ones in [Ocean]. Not both.
+
 #### The [Carcass]
 
 > This acts as a testing ground for the actual game - Ocean.
