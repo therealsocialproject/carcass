@@ -9,7 +9,7 @@ Testing ground and running engine for Ocean.
 
 ## Developer Setup Instructions
 
-> > You either follow the instructions here OR the ones in [Ocean]. Not both.
+> You either follow the instructions here OR the ones in [Ocean]. Not both.
 
 #### The [Carcass]
 
